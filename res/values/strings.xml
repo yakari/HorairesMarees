@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HorairesMarees!</string>
+    <string name="app_name">Horaires des Marées</string>
+    <string name="port_prompt">Choisissez un port</string>
+</resources>
