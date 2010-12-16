@@ -6,16 +6,31 @@
     >
 
     <Spinner android:id="@+id/spinnerPort"
-             android:layout_height="wrap_content"
              android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
              android:saveEnabled="true"
              android:drawSelectorOnTop="true"
              android:prompt="@string/port_prompt">
     </Spinner>
     
-    <WebView android:id="@+id/webview"
-             android:layout_width="fill_parent"
-             android:layout_height="fill_parent"
-    />
+    <ScrollView android:id="@+id/ScrollViewPorts"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbars="vertical"
+                android:scrollbarSize="12px"
+                android:scrollbarStyle="insideOverlay">
+    
+		<TableLayout android:id="@+id/TablePorts"
+					 android:layout_width="fill_parent"
+					 android:layout_height="wrap_content"
+					 android:stretchColumns="0">
+		</TableLayout>
+		
+</ScrollView>
+    
+
+
+
 
 </LinearLayout>

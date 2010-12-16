@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string-array name="ports">
+<item type="string">Please select a port...</item>
 <item type="string">Aber Benoit</item>
 <item type="string">Aber Ildut</item>
-<item type="string">Aber Wrac'h</item>
+<item type="string">Aber Wrac\'h</item>
 <item type="string">Alpha-Baie de Seine</item>
 <item type="string">Anse de Primel</item>
 <item type="string">Antwerpen (Anvers)</item>
-<item type="string">Arcachon (Jetée d'Eyrac)</item>
+<item type="string">Arcachon (Jetée d\'Eyrac)</item>
 <item type="string">Arradon</item>
 <item type="string">Arromanches-Les-Bains</item>
 <item type="string">Audierne</item>
@@ -75,9 +76,9 @@
 <item type="string">Hoek van Holland</item>
 <item type="string">Honfleur</item>
 <item type="string">Huelva (Barra)</item>
-<item type="string">Ile d'Aix</item>
-<item type="string">Ile d'Ouessant (Lampaul)</item>
-<item type="string">Ile d'Yeu (Port-Joinville)</item>
+<item type="string">Ile d\'Aix</item>
+<item type="string">Ile d\'Ouessant (Lampaul)</item>
+<item type="string">Ile d\'Yeu (Port-Joinville)</item>
 <item type="string">Ile de Bréhat (Port-Clos)</item>
 <item type="string">Ile de Groix (Port-Tudy)</item>
 <item type="string">Ile de Hoedic</item>
@@ -111,7 +112,7 @@
 <item type="string">Les Ecrehou</item>
 <item type="string">Les Heaux-de-Bréhat</item>
 <item type="string">Les Minquiers</item>
-<item type="string">Les Sables-d'Olonne</item>
+<item type="string">Les Sables-d\'Olonne</item>
 <item type="string">Lesconil</item>
 <item type="string">Lezardrieux</item>
 <item type="string">Lisboa</item>
@@ -123,7 +124,7 @@
 <item type="string">Mimizan</item>
 <item type="string">Morgat</item>
 <item type="string">Nieuwpoort</item>
-<item type="string">Noirmoutier (L'Herbaudière)</item>
+<item type="string">Noirmoutier (L\'Herbaudière)</item>
 <item type="string">Omonville-La-Rogue</item>
 <item type="string">Oostende</item>
 <item type="string">Ouistreham</item>
@@ -131,12 +132,12 @@
 <item type="string">Pasajes</item>
 <item type="string">Penerf</item>
 <item type="string">Peniche</item>
-<item type="string">Penmarc'h / Saint Guénolé</item>
+<item type="string">Penmarc\'h / Saint Guénolé</item>
 <item type="string">Perros-Guirec</item>
-<item type="string">Ploumanac'h</item>
+<item type="string">Ploumanac\'h</item>
 <item type="string">Plymouth</item>
 <item type="string">Pointe De Grave</item>
-<item type="string">Pointe d'Agon</item>
+<item type="string">Pointe d\'Agon</item>
 <item type="string">Pointe de Gatseau</item>
 <item type="string">Pornic</item>
 <item type="string">Pornichet</item>
