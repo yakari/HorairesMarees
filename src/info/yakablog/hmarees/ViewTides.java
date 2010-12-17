@@ -49,6 +49,7 @@ public class ViewTides extends Activity {
         mWebView = (WebView) findViewById(R.id.webview);
         mWebView.getSettings().setJavaScriptEnabled(true);
         mWebView.loadUrl("http://horloge.maree.frbateaux.net/ws"+port);
+        
 
 		//flipper.showNext();
     }

@@ -5,11 +5,6 @@
               android:layout_height="fill_parent"
     >
     
-    <TextView android:text="@+id/default_port_name"
-              android:id="@+id/LabelPortName"
-              android:layout_width="fill_parent"
-              android:layout_height="wrap_content">
-    </TextView>
     <WebView android:id="@+id/webview"
              android:layout_width="fill_parent"
              android:layout_height="fill_parent"
